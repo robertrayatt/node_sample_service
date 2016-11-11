@@ -1,0 +1,8 @@
+{
+   "username": "root",
+   "password": "bffpass",
+   "database": "node_rest_sample",
+   "host": "127.0.0.1",
+   "dialect": "mysql",
+   "port": 3306
+}
